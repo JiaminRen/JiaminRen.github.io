@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiamin Ren"
   avatar           : "profile.png"
-  bio              : "YResearch Scientist at SenseTime"
+  bio              : "Research Scientist at SenseTime"
   location         : "ShenZhen"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=CEj_NxUAAAAJ&hl=en"
-  email            :
+  email            : "jarman.ren@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
