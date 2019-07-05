@@ -15,6 +15,6 @@ I received the B.E. and M.S. degrees from [Harbin Institute of Technology(HIT)](
 My research interests include computer vision, deep learning and robotics, with particular interest in the intersection of computer vision, machine learning, and robotics. <br>
 
 # Publications
-* Ping Luo\*, **Jiamin Ren\***, Zhanglin Peng, Ruimao Zhang, Jingyu Li. "Multi-Class Learning using Unlabeled Samples: Theory and Algorithm". Accepted in the 7th International Conference on Learning Representations ([ICLR 2019](https://openreview.net/group?id=ICLR.cc/2019/Conference))(*The first two authors contribute equally).
+* Ping Luo\*, **Jiamin Ren\***, Zhanglin Peng, Ruimao Zhang, Jingyu Li. "Differentiable Learning-to-Normalize via Switchable Normalization". Accepted in the 7th International Conference on Learning Representations ([ICLR 2019](https://openreview.net/group?id=ICLR.cc/2019/Conference))(*The first two authors contribute equally).
 
 * Ping Luo, Zhanglin Peng, Wenqi Shao, Ruimao Zhang, **Jiamin Ren**, Lingyun Wu. "Differentiable Dynamic Normalization for Learning Deep Representation". Accepted in the 36th International Conference on Machine Learning([ICML 2019](https://openreview.net/group?id=ICLR.cc/2019/Conference)).
